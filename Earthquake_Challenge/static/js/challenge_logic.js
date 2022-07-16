@@ -147,7 +147,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
     if (magnitude < 5) {
       return "#ee9c00";
     }
-      return "#98ee00";
+      return "#ea9b2c";
   }
 
   // 6. Use the function that determines the radius of the earthquake marker based on its magnitude.
